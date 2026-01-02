@@ -1,2 +1,3 @@
-# clojure-eval
+# Clojure Evalator
+
 A metacircular Clojure evaluator
